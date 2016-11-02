@@ -1,0 +1,12 @@
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\bin\Debug\MathApp.exe
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\bin\Debug\MathApp.pdb
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\obj\Debug\MathApp.csprojResolveAssemblyReference.cache
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\obj\Debug\MathApp.exe
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\obj\Debug\MathApp.pdb
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\obj\Debug\MathApp.csproj.GenerateResource.Cache
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\obj\Debug\MathApp.frmConfiguracion.resources
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\obj\Debug\MathApp.Juego1.resources
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\obj\Debug\MathApp.Registro.resources
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\obj\Debug\MathApp.sincronizar.resources
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\obj\Debug\MathApp.frmMainForm.resources
+C:\Users\JoGarWeb\Documents\SharpDevelopProjects\MathApp\MathApp\obj\Debug\MathApp.Juego2.resources
